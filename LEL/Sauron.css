@@ -1,0 +1,29 @@
+
+
+.grey {
+	background-color: grey;
+	border: 1px solid white;
+	padding: 4%;
+  	
+}
+
+
+
+
+
+.orange {
+	background-color: orange;
+	border: 1px solid white;
+  		
+}
+
+.yellow {
+	background-color: yellow;
+	border: 1px solid white;
+   		
+}
+
+.black {
+	background-color: black;
+	border: 1px solid white;
+}
